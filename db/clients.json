@@ -1,0 +1,51 @@
+{
+  "holdings": [
+    {
+      "holding": "ЕВРАЗ",
+      "beneficiaries": [
+        {
+          "surname": "Абрамов",
+          "name": "Александр",
+          "middleName": "Григорьевич",
+          "birthday": ""
+        },
+        {
+          "surname": "Фролов",
+          "name": "Александр",
+          "middleName": "Владимирович",
+          "birthday": ""
+        }
+      ],
+      "managers": [
+        {
+          "surname": "",
+          "name": "",
+          "middleName": "",
+          "birthday": "",
+          "post": ""
+        }
+      ]
+    },
+
+    {
+      "holding": "",
+      "beneficiaries": [
+        {
+          "surname": "",
+          "name": "",
+          "middleName": "",
+          "birthday": ""
+        }
+      ],
+      "managers": [
+        {
+          "surname": "",
+          "name": "",
+          "middleName": "",
+          "birthday": "",
+          "post": ""
+        }
+      ]
+    }
+  ]
+}

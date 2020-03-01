@@ -1,0 +1,11 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.holding {
+  margin-bottom: 40px;
+}
+
+.holding-name {
+  font-weight: bold;
+}
